@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F32C71</color>
+    <color name="colorPrimaryDark">#3C3C3D</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="buttonBackground">#FF4081</color>
+    <color name="buttonTextColor">#FFFFFF</color>
+    <color name="gradeTextColor">#000000</color>
+</resources>
